@@ -6,7 +6,7 @@ function Header() {
     <div className="header">
         <div className='header-contents'>
             <h2>Order your favourite food here</h2>
-            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas, doloribus? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint, maiores. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed, consectetur ipsam. Libero eaque beatae, aliquid cupiditate similique neque maxime quo?</p>
+            <p> LWelcome to our Food Ordering Platform, your go-to destination for delicious meals delivered right to your doorstep! Our user-friendly website allows you to explore a wide range of restaurants and cuisines, view detailed menus, and place orders with just a few clicks.</p>
             <button>View Menu</button>
         </div>    
     </div>
