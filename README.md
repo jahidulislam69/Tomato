@@ -132,7 +132,7 @@ Feel free to open issues and submit pull requests. Your contributions are welcom
 
 ## 📞 Contact
 For any inquiries or feedback, reach out to me via:
-- LinkedIn: [https://linkedin.com/in/yourprofile]
+- LinkedIn: [https://www.linkedin.com/in/jahidul-shouvo]
 - Email: [jahidulhassa777@gmail.com]
 
 ---
