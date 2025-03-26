@@ -10,7 +10,7 @@ import Orders from './pages/Orders/Orders'
 
 const App = () => {
 
-  const url = "https://food-delivery-backend-cluu.onrender.com";
+  const url = "https://tomato-backend-rose.vercel.app";
 
 
   return (

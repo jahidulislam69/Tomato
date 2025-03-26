@@ -11,7 +11,7 @@ const StoreContextProvider = (props) => {
     const [token, setToken] = useState("");
     const [food_list, setFoodList] = useState([]);
 
-    const url = "https://food-delivery-backend-cluu.onrender.com"
+    const url = "https://tomato-backend-rose.vercel.app"
 
     const addToCart = async (itemId) =>{
         if (!cartItems[itemId]){
