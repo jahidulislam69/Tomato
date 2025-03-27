@@ -4,7 +4,8 @@ Welcome to the **Food Delivery Website (TOMATO) ** – a fully-functional, user-
 
 An integrated **Admin Panel** allows restaurant managers to seamlessly manage menu items, track orders, and keep everything up-to-date. This project leverages modern web technologies to deliver a smooth and intuitive user experience.
 - For Live preview please visit the link and give a try
-- **https://food-delivery-frontend-rzh2.onrender.com**
+**Due to render free trial it takes around 60 sec to update the data so refresh after 60 sec**
+- **https://tomato-frontend-bice.vercel.app**
 
 ## 🌟 Features
 
